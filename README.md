@@ -3,9 +3,9 @@ Im a student, currently in my 2nd year of BS Cyber Security Program. I stepped i
 # My Academic Interests 📖
 Reaserch about the topics of CyberSecurity Domain
 # Skills reflecting my Personality 🧍‍♀️
-Team Management
-Leadership Qualities
-Punctuality
+Team Management,
+Leadership Qualities,
+Punctuality and
 Responsible apprach towards my work
 # Academic leanings and Skills 
 C++, Java
